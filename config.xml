@@ -1,3 +1,6 @@
+
+
+<?xml version='1.0' encoding='utf-8'?>
 <allow-navigation href="https://github.com/vladimir90/songify.git" />
 
 <gap:plugin name="cordova-plugin-whitelist" source="npm" />
