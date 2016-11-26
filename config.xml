@@ -1,8 +1,0 @@
-
-
-<?xml version='1.0' encoding='utf-8'?>
-
-<widget id="org.coenraets.ionicdirectory" version="0.0.3" xmlns="http://www.w3.org/ns/widgets" xmlns:gap = "http://phonegap.com/ns/1.0">
-<allow-navigation href="https://github.com/vladimir90/songify.git" />
-
-<gap:plugin name="cordova-plugin-whitelist" source="npm" />
